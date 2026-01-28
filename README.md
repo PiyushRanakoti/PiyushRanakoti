@@ -80,6 +80,3 @@ I’m a **B.Tech CSE (3rd year)** student at Galgotias College of Engineering & 
 <a href="https://www.linkedin.com/in/piyush-ranakoti-6a422b399/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Piyush Ranakoti" height="30" width="40" /></a>
 </p>
 
-<p >
-  <img src="https://komarev.com/ghpvc/?username=PiyushRanakoti&color=ff69b4&style=flat-square&label=VISITORS" alt="Visitor Counter" />
-</p>
