@@ -8,7 +8,7 @@ I’m a **B.Tech CSE (3rd year)** student at Galgotias College of Engineering & 
 * **🧠 Current Focus:** Building full-stack projects using the **MERN** stack (React + Node.js).
 * **🌱 Learning:** Backend Architectures and refining my skills in **Competitive Programming**.
 * **📫 Reach me at:** [ranakotipiyush25@gmail.com](mailto:ranakotipiyush25@gmail.com)
-* **⚡ Fun fact:** I have Solved 850+ Algoritimic Problems on various Platforms.
+* **⚡ Fun fact:** I have Solved 1100+ Algoritimic Problems on various Platforms.
 
 ---
 ### 🛠️ Languages and Tools
