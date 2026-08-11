@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />, I'm Piyush Ranakoti
 
-I’m a **B.Tech CSE (3rd year)** student at Galgotias College of Engineering & Technology (AKTU). I specialize in **Full Stack Web Development** and **Data Structures & Algorithms**. I like  building clean UIs, scalable APIs, and solving complex algorithmic challenges.
+I’m a **B.Tech CSE (Final year)** student at AKTU. I specialize in **Full Stack Web Development** and **Data Structures & Algorithms**. I like  building clean UIs, scalable APIs, and solving complex algorithmic challenges.
 
 ---
 
